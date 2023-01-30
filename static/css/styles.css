@@ -1,14 +1,16 @@
 body {
-    background-color: #e1f4f3;
+    background-color: #041413;
     text-align: center;
+    background-image: url(https://wallpaperaccess.com/full/1470802.jpg);
+    background-size: 1710px 800px;
 }
 
 .navbar {
-    background-color: #333333;
+    background-color: #000000;
 }
 
 a {
-    color: #f1f9f9;
+    color: #f0f9f9;
 }
 
 a:hover {
