@@ -12,6 +12,6 @@ the provided dataset.
 ## Technologies Used
 
 <img target="_blank" src="https://www.bugtreat.com/blog/wp-content/uploads/2012/04/Python-Programming-Language.png" width=200>
-<img target="_blank" src="[https://i0.wp.com/jrogel.com/wp-content/uploads/2015/08/Jupyter.jpg)" width=200>
+<img target="_blank" src="https://miro.medium.com/max/1500/1*XEzukXOEUudcXkyrouu3vw.jpeg" width=200>
 
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=200>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/)
